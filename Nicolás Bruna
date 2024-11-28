@@ -1,12 +1,15 @@
-{
+{"users":[
   {
-    "nombre":"Nicolas Bruna",
-    "correo":"nicolas.bruna03@inacapmail.cl",
-    "telefono":922130311,
-    "Direccion": "Los Maitenes 2031 Villa Alemana",
-    "Pais":"Chile",
-    "Carrera":"Ingeneria Informatica",
-    
+    "id":2004,
+    "name":"Nicolas Bruna",
+    "username":"Nico",
+    "email":"nicolas.bruna03@inacapmail.cl",
+    "address":{
+      "street":"Los Maitenes",
+      "city":"Villa Alemana",
 
   }
+    "phone":922130311,
+
+]
 }
