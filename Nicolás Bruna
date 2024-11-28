@@ -1,15 +1,13 @@
-{"users":[
-  {
-    "id":2004,
-    "name":"Nicolas Bruna",
-    "username":"Nico",
-    "email":"nicolas.bruna03@inacapmail.cl",
-    "address":{
-      "street":"Los Maitenes",
-      "city":"Villa Alemana",
-
-  }
-    "phone":922130311,
-
+[
+ {
+ "run": "14141414-9",
+ "nombre": "Nicolás",
+ "apellido": "Bruna",
+ "direccion": "Inacap",
+ "fono": 922130311,
+ "correo":"nicolas.bruna03@inacapmail.cl",
+ "montoCredito": 505050,
+ "deuda":0,
+ "tipo": 3
+ }
 ]
-}
